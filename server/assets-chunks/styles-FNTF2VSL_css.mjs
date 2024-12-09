@@ -1,0 +1,2 @@
+export default `nav{background-color:#333;padding:1rem;display:flex;justify-content:space-around}nav a{color:#fff;text-decoration:none}h1,h2{text-align:center;margin-top:20px}form{display:flex;flex-direction:column;align-items:center}input{margin-bottom:10px;padding:8px}
+`;
