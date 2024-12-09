@@ -1,7 +1,7 @@
 export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
   <meta charset="utf-8">
   <title>Portfolio</title>
-  <base href="/portfolio/">
+  <base href="/Portfolio/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <style>nav{background-color:#333;padding:1rem;display:flex;justify-content:space-around}nav a{color:#fff;text-decoration:none}h1{text-align:center;margin-top:20px}
